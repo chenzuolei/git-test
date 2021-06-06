@@ -9,6 +9,8 @@ class GitTestApplicationTests {
     @Test
     void contextLoads() {
         int a= 10;
+
+        int b = 20;
     }
 
 }
